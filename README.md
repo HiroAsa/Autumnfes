@@ -4,7 +4,7 @@
 　　dataのcsvを入れ替えるだけで簡単にページが作成できます。
 
 ## Demo
-  https://github.com/HiroAsa/Autumnfes
+  https://HiroAsa.github.io/Autumnfes/
 		
 ## Variation Demo
   https://codeformatsudo.github.io/omatsuri_project_demo/
